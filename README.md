@@ -6,3 +6,4 @@
 ### Java programozas alapjai (basic)
 
 ### Alapok attekintese, ismetles
+### Adatok bekerese, kiiratasa console-ra

@@ -9,9 +9,21 @@ public class App {
         // kimenetek1.printek();
         // Outputs.printek(); (static eseten)
 
-        new Outputs().printek(); // nem static hasznalat; ha csak 1X kerul felhasznalasra - akkor erdemes
-                                 // hasznalni
-        Konvert.csinald();
-        Konvert.veletlen();
+        // new Outputs().printek(); // nem static hasznalat; ha csak 1X kerul felhasznalasra - akkor erdemes
+        //                          // hasznalni
+        // Konvert.csinald();
+        // Konvert.veletlen();
+
+        // new App().bevitel();
+
+        new Filekez().beolvas();
+    }
+
+    public void bevitel() {
+        new Bevitel().csinal();
+    }
+
+    public void kiiras() {
+        
     }
 }
