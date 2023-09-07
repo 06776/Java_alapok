@@ -1,8 +1,8 @@
-## Java alapok
+# Java alapok
 
-# @Author: Hajdara Patrik
-# Date: 2023.09.07.
+## @Author: Hajdara Patrik
+## Date: 2023.09.07.
 
-# Java programozas alapjai (basic)
+### Java programozas alapjai (basic)
 
-# Alapok attekintese, ismetles
+### Alapok attekintese, ismetles
